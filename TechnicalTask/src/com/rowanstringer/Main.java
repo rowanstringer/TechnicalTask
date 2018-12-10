@@ -44,6 +44,6 @@ public class Main
     private static void printHelp()
     {
         System.out.println("Two integer parameters are required to run this program (numThreads, maxCount): " +
-                "e.g. java main.java 12 1000000 ");
+                "e.g. java main.class 12 1000000 ");
     }
 }
